@@ -1,5 +1,5 @@
 # MusicBot
-
+This code is not very optimized for local operation, be prepared to put it on hosting
  MusicBot for Discord
  This is a simple music bot for Discord that can play tracks from Spotify via YouTube search integration. It supports basic controls like playing, skipping, and repeating tracks.
 
